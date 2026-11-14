@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.yulipaotdj_sys.twa",
+        "sha256_cert_fingerprints": ["9F:85:02:56:E9:BF:4C:B8:A7:9D:51:CD:F6:0E:11:48:22:FE:17:B6:44:39:49:64:F9:4C:69:91:04:1A:08:69"]
+      }
+    }]
